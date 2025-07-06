@@ -28,7 +28,7 @@ cheapest_pizza = pizza_and_prices[0]
 priciest_pizza = pizza_and_prices[-1]
 #remove last variable
 pizza_and_prices.pop()
-# 3 cheapest
+#3 cheapest
 three_cheapest = pizza_and_prices[:3]
 print(three_cheapest)
 
